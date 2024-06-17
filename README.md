@@ -12,8 +12,7 @@ This guide will help you get up and running with a Room Occupancy Manager applic
 Clone the repository from GitHub:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/JakubKlapyta/room-occupancy-service.git
 ```
 
 
